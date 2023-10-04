@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Portfolio
+- 🌱 I’m currently learning UX & responsive web design, jQuery & Javasccript
+- ⚡ Fun fact: I was a software engineer for 4 years before transitioning into a UX role
+- 📫 How to reach me: https://www.linkedin.com/in/wakako-nishimura-anderson/ 
 <!--
 **waka-chan/waka-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
